@@ -31,6 +31,8 @@ npm run dev
 Navigate to http://localhost:3000
 Usage
 
+Project live link: https://spf-cheker.vercel.app/
+
 Enter a domain name in the input field (e.g., google.com, github.com)
 Click the "Check SPF" button
 View the SPF record results:
