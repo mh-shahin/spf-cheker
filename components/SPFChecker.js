@@ -164,7 +164,7 @@ export default function SPFChecker() {
               <button
                 type="submit"
                 disabled={loading}
-                className="px-6 py-3 bg-blue-600 text-white font-medium rounded-lg hover:bg-blue-700 focus:ring-4 focus:ring-blue-300 disabled:bg-gray-400 disabled:cursor-not-allowed transition-all"
+                className="px-6 py-3 bg-violet-600 text-white font-medium rounded-lg hover:bg-violet-700 focus:ring-4 focus:ring-violet-300 disabled:bg-gray-400 disabled:cursor-not-allowed transition-all"
               >
                 {loading ? (
                   <span className="flex items-center gap-2">
